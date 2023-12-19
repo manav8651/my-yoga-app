@@ -1,0 +1,25 @@
+{
+  "name": "my-yoga-flexmoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm start --prefix back",
+    "client": "npm start --prefix front",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manav8651/my-yoga-app.git"
+  },
+  "author": "Manav Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manav8651/my-yoga-app/issues"
+  },
+  "homepage": "https://github.com/manav8651/my-yoga-app#readme",
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  }
+}
