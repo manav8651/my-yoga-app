@@ -26,7 +26,7 @@ A Full-Stack Web Application which enables users to register for different Yoga 
 
 ## ER- Diagram 
 
-![ER-Diagram](screenshots/er.jpg)
+![ER-Diagram](screenshots/er.jpeg)
 
 ## Installation
 
